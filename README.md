@@ -22,5 +22,7 @@ more papers: [https://github.com/wangyongjie-ntu/Awesome-explainable-AI](https:/
 
 [EQUALIZING RECOURSE ACROSS GROUPS](https://arxiv.org/abs/1909.03166),  Arxiv preprint 2019
 
+[Efficient Search for Diverse Coherent Explanations](https://arxiv.org/pdf/1901.04909.pdf), ACM FAT 2019
+
 
 
