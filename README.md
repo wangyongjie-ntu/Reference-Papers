@@ -14,6 +14,8 @@ more papers: [https://github.com/wangyongjie-ntu/Awesome-explainable-AI](https:/
 
 ## Actionable Recourse
 
+[Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf), ACM FAT 2020
+
 [Explainable Machine Learning in Deployment](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624), FAT 2020
 
 [Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems](https://arxiv.org/pdf/1907.09615.pdf), Arxiv preprint 2019
