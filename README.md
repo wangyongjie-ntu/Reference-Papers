@@ -26,4 +26,4 @@ more papers: [https://github.com/wangyongjie-ntu/Awesome-explainable-AI](https:/
 
 [Efficient Search for Diverse Coherent Explanations](https://arxiv.org/pdf/1901.04909.pdf), ACM FAT 2019
 
-[Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399), Hardvard Journal of Law & Technology 2018
+[Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399), Hardvard Journal of Law & Technology 2018 (strong recommend)
