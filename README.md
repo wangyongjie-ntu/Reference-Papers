@@ -10,6 +10,8 @@ DeepLIFT: [Learning important features through propagating activation difference
 
 Integrated Gradients: [Axiomatic attribution for deep networks](http://arxiv.org/abs/1703.01365), ICML 2017
 
+LRP, [On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498753/), PloS one 2015
+
 more papers: [https://github.com/wangyongjie-ntu/Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 
 ## Actionable Recourse (Counterfactual Explanation)
